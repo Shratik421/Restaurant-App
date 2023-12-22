@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "vishal@vishal.com",
+      "email": "vishal@vishal.com",
+      "mobile": 8596741230,
+      "address": "at - chikmara nagbhid dist- chandrapur",
+      "services": "pizza"
+    },
+    {
+      "id": 3,
+      "name": "vishal@vishal.com",
+      "email": "vishal@vishal.com",
+      "mobile": 8596741230,
+      "address": "at - chikmara nagbhid dist- chandrapur",
+      "services": "pizza"
+    },
+    {
+      "id": 4,
+      "name": "kuamnr",
+      "email": "kuamr@kuamr.com",
+      "mobile": 74859633210,
+      "address": "nagpur",
+      "services": "burger"
+    },
+    {
+      "id": 5,
+      "name": "krishna ",
+      "email": "krishan@krishna.com",
+      "mobile": 748593210,
+      "address": "mathura",
+      "services": "blessings"
+    },
+    {
+      "id": 6,
+      "name": "piyush",
+      "email": "piyush@piyush.com",
+      "mobile": 7789456230,
+      "address": "tpoint",
+      "services": "hotel management"
+    },
+    {
+      "id": 7,
+      "name": "ram kuamr",
+      "email": "ram@ram.com",
+      "mobile": 9685741230,
+      "address": "ayodhya",
+      "services": "blessings"
+    },
+    {
+      "id": 8,
+      "name": "geeta",
+      "email": "geeta@geeta.com",
+      "mobile": 4561237890,
+      "address": "bhagwat",
+      "services": "life lessons"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
